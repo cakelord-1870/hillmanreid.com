@@ -1,0 +1,1487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hillmanreid.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hillmanreid.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hillmanreid.com/collections/private-label.atom"/>
+  <title>Hillman Reid Premium Skin and Hair Care Inc.</title>
+  <updated>2021-06-18T00:05:43-12:00</updated>
+  <author>
+    <name>Hillman Reid Premium Skin and Hair Care Inc.</name>
+  </author>
+  <entry>
+    <id>https://hillmanreid.com/products/4855157162064</id>
+    <published>2021-06-18T00:05:43-12:00</published>
+    <updated>2021-06-18T00:05:43-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/product-displays"/>
+    <title>Tin Product Displays</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>Hillman Reid</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/HR_TIN_MOUNTS_01.png?v=1623771207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hillman Reid<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            10.00 - 108.00
+            <a href="https://hillmanreid.com/products/product-displays">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1/8" Acrylic Product Displays for the 2oz &amp; 1oz Aluminum Product Tins.</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4855157162064</id>
+      <title>1/2 OZ / 1</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>20HRACYWT05-1</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4855157162064</id>
+      <title>1/2 OZ / 6</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>20HRACYWT05-6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4855157162064</id>
+      <title>1/2 OZ / 12</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>20HRACYWT05-12</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4855157162064</id>
+      <title>1 OZ / 1</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>20HRACYWT1-1</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4855157162064</id>
+      <title>1 OZ / 6</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>20HRACYWT1-6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4855157162064</id>
+      <title>1 OZ / 12</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>20HRACYWT1-12</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4855157162064</id>
+      <title>2 OZ / 1</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>20HRACYWT2-1</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4855157162064</id>
+      <title>2 OZ / 6</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>20HRACYWT2-6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4855157162064</id>
+      <title>2 OZ / 12</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku>20HRACYWT2-12</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hillmanreid.com/products/6565654790224</id>
+    <published>2021-06-14T23:24:48-12:00</published>
+    <updated>2021-06-14T23:24:48-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/beard-oil-samples"/>
+    <title>Beard Oil Samples</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>HR - Private Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/SAMPLE-OILS_3D_3052e868-4285-420f-96fa-9739bb73ed15.png?v=1623769072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HR - Private Label<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Not sure what scent you want to invest in? Try our sample pack and get the full assortment of 3 ml drams of our perfectly balanced Beard Oil set within a glass dram bottle. Scent names are listed on the box for reference and each bottle is numbered. </span></p>
+<br>
+<p data-mce-fragment="1"><strong data-mce-fragment="1"><span data-mce-fragment="1">SCENT LIST</span></strong></p>
+<p data-mce-fragment="1"><em data-mce-fragment="1">CROWN (Refreshing Floral and Musk)</em><br data-mce-fragment="1"><em data-mce-fragment="1">CASINO (Leather, Cedarwood, Lemon and Spicy Tobacco)</em><br data-mce-fragment="1"><em data-mce-fragment="1">GOLD (Allspice, Nutmeg and Vanilla)<span data-mce-fragment="1"> </span></em><br data-mce-fragment="1"><em data-mce-fragment="1">KING (Spicy-Sweet, Musk, Sandalwood)<span data-mce-fragment="1"> </span></em><br data-mce-fragment="1"><em data-mce-fragment="1">LUCKY (Patchouli, Vanilla, Clove, Sandalwood and Leather)</em><br data-mce-fragment="1"><em data-mce-fragment="1">REIGN (Tobacco leaves, Citrus and Bay Leaves) </em><br data-mce-fragment="1"><em data-mce-fragment="1">WEALTH (Patchouli, Vanilla and Rum)</em><span data-mce-fragment="1"></span></p>
+<p data-mce-fragment="1" left="" text-align:=""><strong data-mce-fragment="1">Ingredients:</strong><span data-mce-fragment="1">  Avocado Oil, Hemp Seed Oil, Cherry Kernel Oil, Abyssinian Seed Oil, Fragrance</span></p>
+<div style="text-align: left;"><img alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR_VEGAN_a6717ad8-3aee-4080-ba14-e88855820566_240x240.png?v=1603193824"></div>
+<div style="text-align: left;"><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/6565654790224</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21HRBOSAMPL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hillmanreid.com/products/6547885752400</id>
+    <published>2021-06-14T23:24:47-12:00</published>
+    <updated>2021-06-14T23:24:47-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/foaming-facial-scrub-pl"/>
+    <title>Foaming Facial Scrub</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>HR - Private Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/BLUE-JARS_d4dc2f87-b346-4735-8e1e-be41924be5de.png?v=1623769362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HR - Private Label<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619"> <widgetic id="60131499ecb2a12f298b4567" resize="fill-width" width="1920" height="1080" autoscale="on" adaptive="414"></widgetic>
+<p>A true luxury. Scrub with the delight of a gentle plant butter base, coffee butter and fine pumice. Exceptional performance. In addition to its caffeine content, coffee butter also retains coffee's naturally high concentrations of antioxidant vitamins, which neutralize damaging free radicals that can also contribute to the physical signs of aging. Rinse and the product is self cleaning while moisturizing with a with a very low pH of 5.5 the foaming action will leave your skin incredibly refreshed.<br></p>
+<p><span><br>Ingredients: Water, Roasted Coffee Oil (and) Hydrogenated Soy Oil, Medium Chain Triglycerides, Glycerin, Sodium Cocoyl Isethionate, Sorbitol, Disodium Lauryl Sulfosuccinate, Sodium Chloride, Phenoxyethanol, Tetrasodium EDTA, Pumicite, Coffee Aribica Seed Powder</span></p>
+<div style="text-align: left;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR_VEGAN_a6717ad8-3aee-4080-ba14-e88855820566_240x240.png?v=1603193824"></div>
+<p><span></span><span><br></span></p><div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144" alt=""></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/6547885752400</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>20HRFFS4PL</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hillmanreid.com/products/4876504105040</id>
+    <published>2021-06-14T23:24:47-12:00</published>
+    <updated>2021-06-14T23:24:47-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/oatmeal-shea-soap-1"/>
+    <title>Oatmeal &amp; Shea Soap</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>HR - Private Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/GOATSMILKSOAPFRONT_034abd54-4063-4be1-aacc-d354cb3a0bf6.png?v=1623769352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HR - Private Label<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619"> <widgetic adaptive="414" autoscale="on" height="1080" width="1920" resize="fill-width" id="60131499ecb2a12f298b4567"></widgetic>
+<p>Shea butter sewn with Oatmeal to create a natural nourishing, soothing and moisturizing delight! Our soap is h<span data-mce-fragment="1">igh in Vitamin E, D &amp; Provitamin A and lathers very well. Since we don't use animal oils, our soaps rinse right off without leaving a soapy film behind.</span></p>
+<p><span>- Fantastic lather<br></span><span>- Cleanses without stripping<br></span><span>- No upsetting of natural PH Balance<br>- Soften your skin</span><br><span>- Healthy Vegetable Oils</span><br><span>- Feel the Immediate Condition Difference</span><br><span>- No soapy film residue</span><br></p>
+<p><span><strong>Ingredients:</strong> Aqua, Propylene Glycol, Sodium Stearate, Glycerin, Sucrose, Sodium Laureth Sulfate, Sorbitol, Sodium Myristate, Sodium Laurate, Sodium Lauryl Sulfate,  Avena Sativa Kernel Flower (Oatmeal Powder), Silica, Sodium Chloride, Stearic Acid, Titanium Dioxide, Myristic Acid, Butyrosperum Parkii (Shea) Butter, Lauric Acid, Pentasodium Pentetate, Tetrasodium Etidronate</span> <br><br> <img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR_VEGAN_a6717ad8-3aee-4080-ba14-e88855820566_240x240.png?v=1603193824" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR_VEGAN_a6717ad8-3aee-4080-ba14-e88855820566_240x240.png?v=1603193824"></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4876504105040</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>20HROBS4PL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hillmanreid.com/products/4876494602320</id>
+    <published>2021-06-14T23:24:47-12:00</published>
+    <updated>2021-06-14T23:24:47-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/ultra-body-butter-pl"/>
+    <title>Ultra Body Butter</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>HR - Private Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/SB1F_866b59ac-c92c-4da4-b7fb-54aaa99e6e6d.png?v=1623769335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HR - Private Label<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619"> <widgetic id="60131499ecb2a12f298b4567" resize="fill-width" width="1920" height="1080" autoscale="on" adaptive="414"></widgetic><p>Perfect for dry or mature skin, this luscious Body Butter is non greasy and quick to absorb. <span data-mce-fragment="1">Blended with pure Shea Butter, Murumuru Butter, Tucuma Butter, and Sunflower Oil, you will find your skin left feather-soft. </span>Enjoy a relaxing bath or shower and then apply after towel drying your body.  <br></p>
+<p>Ingredients: Aqua, Butyrospermum Parkii Butter, Astrocarym Tucuma Seed Butter, Cocos Nucifera Oil, Polyglceryl-3 Dicitrate / Stearate, Ethylhexyl Palmitate, Glyceryl Stearate SE, Myristyl Myristate, Cetearyl Alcohol, Glyceryl Caprylate, Glyceryl Undecylenate, Xanthan Gum, Citric Acid, Fragrance</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR_PRODUCT_LABEL_VEG_240x240.png?v=1603194172" alt=""></p><img alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4876494602320</id>
+      <title>CHERRY BLOSSOM</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21HRBBTCBPL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4876494602320</id>
+      <title>GREEN TEA &amp; PEAR</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21HRBBTGPPL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4876494602320</id>
+      <title>LAVENDER</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21HRBBTLRPL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4876494602320</id>
+      <title>ORANGE GUAVA</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21HRBBTOGPL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4876494602320</id>
+      <title>PINK NOIR</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21HRBBTPNPL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4876494602320</id>
+      <title>UNSCENTED</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21HRBBTUNPL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hillmanreid.com/products/4876494045264</id>
+    <published>2021-06-14T23:24:46-12:00</published>
+    <updated>2021-06-14T23:24:46-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/hair-styling-gel-pl"/>
+    <title>Hair Styling Gel</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>HR - Private Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/SB1F_47ece62a-b4e1-4a0c-9a35-6e1a8554db73.png?v=1623769335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HR - Private Label<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619"> <widgetic adaptive="414" autoscale="on" height="1080" width="1920" resize="fill-width" id="60131499ecb2a12f298b4567"></widgetic>
+<p>Unlike traditional styling gel, ours allows you to restyle once dry. Thicker out of the jar, you will need to add water to work this into your hair. With no alcohol (to avoid damage to skin and hair), our styling gel takes longer to harden but has an amazing all day hold and a natural look that won't flake easily at all. You can wear this product for 48hrs and bring it back to life with a bit more water applied. Try it and you will love it!</p>
+<p>Ingredients: Aqua, Xanthan Gum, Glycerin, <span data-sheets-userformat='{"2":4739,"3":{"1":0},"4":[null,2,13421772],"10":2,"12":0,"15":"Arial"}' data-sheets-value='{"1":2,"2":"phenoxyethanol"}'>Phenoxyethanol, Fragrance</span></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR_VEGAN_a6717ad8-3aee-4080-ba14-e88855820566_240x240.png?v=1603193824"><br></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4876494045264</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21HRHG4</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hillmanreid.com/products/4876394430544</id>
+    <published>2021-06-14T23:24:46-12:00</published>
+    <updated>2021-06-14T23:24:46-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/shaving-soap-pl"/>
+    <title>Shaving Soap</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>HR - Private Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/SS1F_33430fda-89fb-488f-8929-f2a88de7a649.png?v=1623769290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HR - Private Label<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619"> <widgetic id="60131499ecb2a12f298b4567" resize="fill-width" width="1920" height="1080" autoscale="on" adaptive="414"></widgetic>
+<p>Our traditional shaving soap is made with Goats Milk and Bentonite Clay, which produces a very creamy, very thick foam. Combining these two beneficial ingredients provides detoxification, acne treatment, natural exfoliation and supports healthy skin microbiome.</p>
+<p>You'll be very pleased with the gracious amount we supply and how nice your skin feels after your shave. For the perfect finish, be sure to use our Aftershave Lotion. Paired together these are a magnificent way to look fantastic and better your skin health.</p>
+<p>Ingredients: <span data-mce-fragment="1">Aqua, Bentonite Clay, Glycerin, Sodium Stearate, Sorbital, Sodium Laurate, Goats Milk, Propylene Glycol, Sodium Laureth Sulfate, Sodium Chloride, Sodium Lauryl Sulfate, Titanium Dioxide, Stearic Acid, Lauric Acid, Pentasodium Pentetate, Tetrasodium Etidronate, Fragrance</span><span data-mce-fragment="1">  </span><br></p>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR_PRODUCT_LABEL_VEG_240x240.png?v=1603194172" alt="" style="float: none;"></div>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144"><br>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4876394430544</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>18HRSS8PL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hillmanreid.com/products/4873488236624</id>
+    <published>2021-06-14T23:24:46-12:00</published>
+    <updated>2021-06-14T23:24:46-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/cooling-muscle-rub-3"/>
+    <title>Cooling Muscle Rub</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>HR - Private Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/URB_6e429255-4c9d-4087-98e3-59b8249d7c07.png?v=1623769274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HR - Private Label<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619"> <widgetic id="60131499ecb2a12f298b4567" resize="fill-width" width="1920" height="1080" autoscale="on" adaptive="414"></widgetic><p>Deeply soothing muscle rub will help relieve tension with a cooling effect and subtle scent. Use as a rub, the perfect way to make yourself feel better!</p>
+<p><strong>Ingredients:</strong><span> </span><span>Hemp Seed Butter,</span><span> </span><span>Moringa </span><span>Butter, </span><span>Avocado Butter, Argan Oil, Abyssinian Oil, Cherry Kernel Oil, Hemp Seed Oil, Meadowfoam Oil, Cera Alba (Beeswax)</span><b><i>,</i></b><span> Menthol, Fragrance</span></p>
+<p><img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR_PRODUCT_LABEL_VEG_240x240.png?v=1603194172" alt=""></p>
+<br><img alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4873488236624</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>20HRCMR1PL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hillmanreid.com/products/4870842974288</id>
+    <published>2021-06-14T23:24:45-12:00</published>
+    <updated>2021-06-14T23:24:45-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/face-beard-moustache-soap-pl"/>
+    <title>Face, Beard &amp; Moustache Soap</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>HR - Private Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/BEARDSOAPFRONT_a70f47e7-e39c-49c2-97ab-0efa4f2e0c38.png?v=1623769265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HR - Private Label<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619"> <widgetic adaptive="414" autoscale="on" height="1080" width="1920" resize="fill-width" id="60131499ecb2a12f298b4567"></widgetic>
+<p><span><br>- Extra Oils Help Repair a Day of Hair Stress</span><br><span>- Eliminate Painful Beard Pimples</span><br><span>- Healthy Vegetable Oils + African Black Soap</span><br><span>- No need for Beard Product in Bed</span><br><span>- Feel the Immediate Condition Difference</span><br><span>- Go to Bed with a Super Soft Beard</span><br><span>- Reduce Tangling and Soften Whiskers</span><br><span>- Special Formula lets you Wash 2x per Day</span><br><span>- Adds Oils and does not dry out hair</span> </p>
+<p><span><strong>Ingredients:</strong> Aqua, Glycerin, Sorbitol, Sodium Stearate, Sodium Laurate, Propylene Glycol, Sodium Oleate, Sodium Myristate, Sodium Chloride, Glyceryl Mono Laurate, Cocamidopropyl Betaine, Teobroma Cacao (Cocoa) Seed Butter, Butyrospermum Parkii (Shea Butter), Magnifera Indica (Mango) Seed Butter, Sodium Thiosulphate, Sodium Citrate, Titanium Dioxide, Citric Acid, Trisodium Sulfosuccinate, Pentasodium Pentatate, Tetrasodium Etidronate, African Black Soap (Sodium Shea Butterate, Sodium Cocoate, Sodium Palm Kernelate, Coconut Carbon), Fragrance<br><br></span><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR_VEGAN_a6717ad8-3aee-4080-ba14-e88855820566_240x240.png?v=1603193824" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR_VEGAN_a6717ad8-3aee-4080-ba14-e88855820566_240x240.png?v=1603193824"></p>
+<div style="text-align: left;"><img alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4870842974288</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>20HRPLFBS</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hillmanreid.com/products/4870187876432</id>
+    <published>2021-06-14T23:24:45-12:00</published>
+    <updated>2021-06-14T23:24:45-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/arctic-mineral-mud-mask-pl"/>
+    <title>Arctic Mineral Mud Mask</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>HR - Private Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/BLUE-JARS.png?v=1623768709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HR - Private Label<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619"> <widgetic id="60131499ecb2a12f298b4567" resize="fill-width" width="1920" height="1080" autoscale="on" adaptive="414"></widgetic><p>Perfect for any skin type without burning, our pure Arctic Mineral Mud powder contains no fillers (unlike bentonite or kaolin clay). Hand harvested and screened using green  generated hydro power from the same water system from which it is harvested.<span> </span><br><br>Your skin will immediately benefit from the unique toning of this mud mask as it detoxifies and achieves baby smooth skin. Unlike Dead Sea mud that has a stinging effect, this mud is mild on all skin types. Applications are simple (adding 2 spoons powder to 1 spoon water or milk) or mixed in a lotion or gel.  Apply with a brush or with fingers and wait 20 minutes to dry. Rinse thoroughly, making sure any eye contact is avoided at all times. Flush well if this happens.</p>
+<p>The best natural face mask this wonderful planet has to offer. <br><br>Average Partical Size of 35 Microns<br></p>
+<p><strong>Ingredients:</strong><span> </span>Quartz, Microcline, Albite, Calcite,<span> </span>Dolomite, Hornblende, Muscovite, Biotite, Chlorite, Montmorrillonite, Smectite, *Trace Elements<br>*60 major and trace elements are normal levels found in soil</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR_VEGAN_a6717ad8-3aee-4080-ba14-e88855820566_240x240.png?v=1603193824" alt=""></p>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144" alt=""></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4870187876432</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>20HRAMM4PL</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hillmanreid.com/products/4868483809360</id>
+    <published>2021-06-14T23:24:45-12:00</published>
+    <updated>2021-06-14T23:24:45-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/aftershave-lotion-pl"/>
+    <title>Aftershave Lotion</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>HR - Private Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/ASL_2bcfafba-8efd-4eb3-8cd8-c9a56b404b0a.png?v=1623768676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HR - Private Label<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619"> <widgetic id="60131499ecb2a12f298b4567" resize="fill-width" width="1920" height="1080" autoscale="on" adaptive="414"></widgetic>
+<div style="text-align: left;">Our aftershave lotion will help prevent afterburn and ingrown hairs on your most sensitive areas. We use witch hazel to provide <span data-mce-fragment="1">strong antioxidant and soothing astringent properties, </span>hemp seed oil which is known to be rich in essential fatty acids and fantastic for all your skin! We also use avocado oil, which improve skin elasticity, add some aloe vera, which is exceptional at providing great skin care properties - combined this lotion contains a bevy of vitamins, minerals, and skin rejuvenating enzymes. Just a dab of menthol for natural cooling. Never will you find a better aftershave lotion.<br>
+</div>
+<p><strong>Ingredients:</strong><span> Witch Hazel Distillate, </span>Aqua (Purified Water), Persea Gratissima (Avocado) Oil, Emulsifying Wax NF, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Stearic Acid, Glycerin, Cannabis Sativa (Hemp) Seed Oil, Aloe Barbensis Leaf Extract (Aloe Vera), Menthol, Silk Amino Acids, Phenoxyethanol, Caprylyl Glycol, Sorbic Acid, Benzoic Acid, Fragrance<br><img alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4868483809360</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>20HRASL4PL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hillmanreid.com/products/4868470702160</id>
+    <published>2021-06-14T23:24:44-12:00</published>
+    <updated>2021-06-14T23:24:44-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/goats-milk-face-body-soap-1"/>
+    <title>Goats Milk Face &amp; Body Soap</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>HR - Private Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/GOATSMILKSOAPFRONT_85c72f05-d338-4525-b4fe-e4740e961618.png?v=1623769255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HR - Private Label<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619"> <widgetic id="60131499ecb2a12f298b4567" resize="fill-width" width="1920" height="1080" autoscale="on" adaptive="414"></widgetic>
+<p>The benefits are surprising. Goats milk soap is a gentle cleanser full of nutrients that have anti-aging properties and is a good source of selenium to support healthy skin membrane. Our soap is scentless and gentle. It won't lather as thick as our other soaps but it does not affect it's ability to perform whatsoever. You will be very happy with the results!  </p>
+<p><span>- Natural exfoliant</span><br><span>- Supports healthy skin microbiome</span><br><span>- May prevent acne</span><br><span>- Nutrient rich with high amounts of fats</span><br><span>- Gentle removal of dirt and debris without removing fatty acids</span><br></p>
+<p><span><strong>Ingredients:</strong> Aqua, Glycerin, Sodium Stearate, Sorbital, Sodium Laurate, Goats Milk, Propylene Glycol, Sodium Laureth Sulfate, Sodium Chloride, Sodium Lauryl Sulfate, Titanium Dioxide, Stearic Acid, Lauric Acid, Pentasodium Pentetate, Tetrasodium Etidronate</span>  </p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR_PRODUCT_LABEL_VEG_240x240.png?v=1603194172"></p><div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144" alt=""></div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4868470702160</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>20HRGMS4PL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hillmanreid.com/products/4868227989584</id>
+    <published>2021-06-14T23:24:44-12:00</published>
+    <updated>2021-06-14T23:24:44-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/charcoal-detox-soap-pl"/>
+    <title>Charcoal Detox Soap</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>HR - Private Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/CHARCOALFRONT_ec2e1964-7559-4214-8eeb-ca8f970a76ac.png?v=1623769251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HR - Private Label<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619"> <widgetic id="60131499ecb2a12f298b4567" resize="fill-width" width="1920" height="1080" autoscale="on" adaptive="414"></widgetic>
+<p>Perfect for oily skin! Let's prevent acne and premature aging. Tighten your skin with Charcoal set within Olive, Coconut and Palm oils combined with Shea Butter. Use this on your face to create the most vibrant you!<br><br>Ingredients: Saponified Olive Oil, Saponified Coconut Oil, Saponified Palm Oil, Saponified Shea Butter, Water, Activated Charcoal<br><br><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR_VEGAN_a6717ad8-3aee-4080-ba14-e88855820566_240x240.png?v=1603193824" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR_VEGAN_a6717ad8-3aee-4080-ba14-e88855820566_240x240.png?v=1603193824"><br></p>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144" alt=""></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4868227989584</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>20HRCDS5PL</s:sku>
+      <s:grams>175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hillmanreid.com/products/4868226482256</id>
+    <published>2021-06-14T23:24:44-12:00</published>
+    <updated>2021-06-14T23:24:44-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/scalp-body-soap-2"/>
+    <title>Scalp &amp; Body Soap</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>HR - Private Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/DRYSKINFRONT_852fc305-3999-4260-b944-832a1a2c456b.png?v=1623769251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HR - Private Label<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619"> <widgetic id="60131499ecb2a12f298b4567" resize="fill-width" width="1920" height="1080" autoscale="on" adaptive="414"></widgetic>Perfect for dry skin! Soothing gentle soap made with Olive, Coconut and Palm oils combined with Shea Butter and essential oils for intensely moisturizing results. Face, body and scalp, use this treatment bar anywhere that you need help with dry skin!<br><br>Ingredients: Saponified Palm Oil, Saponified Coconut Oil, Saponified Castor Oil, Water, Hemp Seed Oil, Tea Tree Essential Oil, Peppermint Essential Oil, Rosemary Essential Oil<br>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR_VEGAN_a6717ad8-3aee-4080-ba14-e88855820566_240x240.png?v=1603193824"></p><div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144" alt=""></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4868226482256</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>20HRSBS5PL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hillmanreid.com/products/4867209199696</id>
+    <published>2021-06-14T23:24:43-12:00</published>
+    <updated>2021-06-14T23:24:43-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/advanced-foam-sponges-pl"/>
+    <title>Advanced Foam Sponges</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>HR - Private Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/HILLMAN_REID_SPONGES_f2ebc977-9016-46e5-9da3-999d7ea13095.png?v=1623768659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HR - Private Label<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619"> <widgetic id="60131499ecb2a12f298b4567" resize="fill-width" width="1920" height="1080" autoscale="on" adaptive="414"></widgetic>Tired of knowing your sponges comes from the ocean? Our advanced foam sponges have amazing benefits over using traditional cellulose or sea sponges. Stronger and more flexible, our sponge material holds more water than traditional sponges. Odor free for a longer because nobody likes to use a stinky sponge.<br>
+<p>Sea sponges are under threat. Be sure not to toss your old sponges, take the time to find another use for them. There's really great ideas online, we easily found over 30 after life uses.</p>
+<p>- Soft and flexible wet or dry<br>- Maintains shape after drying<br>- Holds more water<br>- Releases water better<br>- Faster and easier to rinse out <br><span data-mce-fragment="1">- Odor free for longer</span><br>- Stronger and more durable<br>- Fantastic wet / dry wipe performance<br></p>
+<p> Size: 4.72" x 3.74" x 1.96"</p>
+<img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144"><br>
+<p> </p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4867209199696</id>
+      <title>Green</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>20HRAFSGPL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4867209199696</id>
+      <title>Yellow</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>20HRAFSYPL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4867209199696</id>
+      <title>Peach</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>20HRAFSPPL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hillmanreid.com/products/4808273821776</id>
+    <published>2021-06-14T23:24:43-12:00</published>
+    <updated>2021-06-14T23:24:43-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/beard-butter-samples"/>
+    <title>Beard Butter Samples</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>HR - Private Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/SAMPLEBUTTERS_3D.png?v=1623768882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HR - Private Label<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619"> <widgetic id="60131499ecb2a12f298b4567" resize="fill-width" width="1920" height="1080" autoscale="on" adaptive="414"></widgetic>
+<p>Not sure what scent you want to invest in? Try our sample pack and get the full assortment of 1/4 ounces of our oh so soft Beard Butter set within a perfectly threaded aluminum tin. Scent names are listed on the box for reference <br></p>
+<br>
+<p data-mce-fragment="1"><strong data-mce-fragment="1"><span data-mce-fragment="1">SCENT LIST</span></strong></p>
+<p data-mce-fragment="1"><em data-mce-fragment="1">CROWN (Refreshing Floral and Musk)</em><br data-mce-fragment="1"><em data-mce-fragment="1">CASINO (Leather, Cedarwood, Lemon and Spicy Tobacco)</em><br data-mce-fragment="1"><em data-mce-fragment="1">GOLD (Allspice, Nutmeg and Vanilla)<span data-mce-fragment="1"> </span></em><br data-mce-fragment="1"><em data-mce-fragment="1">KING (Spicy-Sweet, Musk, Sandalwood)<span data-mce-fragment="1"> </span></em><br data-mce-fragment="1"><em data-mce-fragment="1">LUCKY (Patchouli, Vanilla, Clove, Sandalwood and Leather)</em><br data-mce-fragment="1"><em data-mce-fragment="1">REIGN (Tobacco leaves, Citrus and Bay Leaves) </em><br data-mce-fragment="1"><em data-mce-fragment="1">WEALTH (Patchouli, Vanilla and Rum)</em><span data-mce-fragment="1"></span></p>
+<p data-mce-fragment="1" left="" text-align:=""><strong data-mce-fragment="1">Ingredients:</strong><span data-mce-fragment="1"> </span>Jojoba Butter, Moringa Butter Avocado Butter, Hemp Seed Butter, Argan Oil,<span data-mce-fragment="1"> </span><span data-mce-fragment="1">Cera Alba (</span><span data-mce-fragment="1">B</span><span data-mce-fragment="1">eeswax)</span><span data-mce-fragment="1"> Fragrance</span></p>
+<div style="text-align: left;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR_PRODUCT_LABEL_VEG_240x240.png?v=1603194172"></div>
+<br>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144" alt=""></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4808273821776</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>20HRBTSAM7</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hillmanreid.com/products/4777416589392</id>
+    <published>2021-06-14T23:24:43-12:00</published>
+    <updated>2021-06-14T23:24:43-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/body-brush"/>
+    <title>Body Brush</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>HR - Private Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/BHBF_2bba41f7-bc8b-41fb-b61c-fc72158b19ae.png?v=1623770447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HR - Private Label<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619"> <widgetic id="60131499ecb2a12f298b4567" resize="fill-width" width="1920" height="1080" autoscale="on" adaptive="414"></widgetic>
+<p>Made of bamboo and boar bristles our dry skin Body Brush is an indispensable tool for skin care. A perfect way to energize and add oxygen to your daily routine. Optimize absorption and effectiveness of all our skin products. To be used on dry skin before a shower in circular motions from the feet upward to the heart on the concerned areas.<br></p>
+<p><br><span>Naked? Good. Before you jump into the shower,brush your skin in a circular motion. Your skin will become well stimulated. Take shower. Dry your body skin and apply our hemp and aloe lotion. Never use our Body Brush in the shower. Do not use our dry brush if bristles or skin is wet.</span></p>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144" alt=""></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4777416589392</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>20HRBBB2</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hillmanreid.com/products/4777386082384</id>
+    <published>2021-06-14T23:24:42-12:00</published>
+    <updated>2021-06-14T23:24:42-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/beard-boar-brush"/>
+    <title>Beard Boar Brush</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>HR - Private Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/BHBF_82b97ad3-c0e3-49a5-8bbc-d2bc89f3519c.png?v=1623768789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HR - Private Label<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619"> <widgetic id="60131499ecb2a12f298b4567" resize="fill-width" width="1920" height="1080" autoscale="on" adaptive="414"></widgetic><p>Every tool performs a job and our Boar Brush does just that. Brushes add volume to a beard, unlike combs. Combs are a perfect way lay a beard down with control but a brush will add volume.<br></p>
+<p><span>Our Brush Applies Balm, </span><span>Cream and Oils Far Better Than Synthetic Bristles. Use the Brush to Massage Skin Beneath the Beard and To Help Prevent “Beard-Druff” (Dandruff of the Beard) and Residue For Clean and Stylish Looking Facial Hair.</span></p>
+<p><span>Please be aware that brushes only last so long, if you want a tool that lasts forever, look at our stainless combs.</span></p>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144" alt=""></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4777386082384</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>20HRBBB1</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hillmanreid.com/products/4575915966544</id>
+    <published>2021-06-14T23:24:42-12:00</published>
+    <updated>2021-06-14T23:24:42-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/foaming-bath-butter-pl"/>
+    <title>Foaming Bath Butter</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>HR - Private Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/BLUE-JARS_47ebdb3c-35c1-4657-a379-55a4d68e74f5.png?v=1623770579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HR - Private Label<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619"> <widgetic id="60131499ecb2a12f298b4567" resize="fill-width" width="1920" height="1080" autoscale="on" adaptive="414"></widgetic>
+<p>Our Foaming Bath Butter is a unique way to wash, soften your skin and even shave! Versatile and soothing, this luxurious thick lather leaves your skin lightly scented and nourished. Have you ever tried to shave in the shower only to find shaving cream really is not ideal? Try our Bath Butter. Lather and shave. Rinse. Simple.<br></p>
+<p><span><br>A true luxury while it cleanses and moisturizes, has a very mild pH of 5.5 and is perfect for facial applications.<br></span><br><span>Ingredients: Water, Glycerin, Sodium Cocoyl Isethionate, Sorbitol, Disodium Lauryl Sulfosuccinate, Sodium Chloride, Phenoxyethanol, Tetrasodium EDTA, Fragrance</span></p>
+<div style="text-align: left;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR_VEGAN_a6717ad8-3aee-4080-ba14-e88855820566_240x240.png?v=1603193824"></div>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144" alt=""></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body Scrub Scents</s:tag>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4575915966544</id>
+      <title>CHERRY BLOSSOM</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>20HRFBB4CBPL</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4575915966544</id>
+      <title>GREEN TEA &amp; PEAR</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>20HRFBB4GTPL</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4575915966544</id>
+      <title>LAVENDER</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>20HRFBB4LRPL</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4575915966544</id>
+      <title>ORANGE GUAVA</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>20HRFBB4OGPL</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4575915966544</id>
+      <title>PINK NOIR</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>20HRFBB4PNPL</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hillmanreid.com/products/4575797018704</id>
+    <published>2021-06-14T23:24:42-12:00</published>
+    <updated>2021-06-14T23:24:42-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/aloe-hemp-beard-wash-pl"/>
+    <title>Aloe + Hemp Beard Wash</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>HR - Private Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/SOAPBOTTLE_53980847-aed3-4c07-8458-2d28bbafe5c0.png?v=1623768696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HR - Private Label<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619"> <widgetic id="60131499ecb2a12f298b4567" resize="fill-width" width="1920" height="1080" autoscale="on" adaptive="414"></widgetic><p>We have blended the perfect balance aloe and hemp beard wash that will absolutely amaze you! This soap is unique! As with all of our soaps... A little goes a very long way. 100% Natural. Seriously. Beat that.<br></p>
+<p>What's unique?</p>
+<p>- Aloe Vera Gel<br>- Hemp Seed Oil<br>- Rice bran Oil<br>- Salt</p>
+<p>Why salt right? Salt<span> helps to cleanse pores deeply, balance oil production and thwart bacteria that can instigate breakouts and acne</span>! The scent ( Crisp Tobacco leaves, Citrus and Bay Leaves -<span> </span><em>very fresh smell</em>) will leave you wanting to have multiple showers a day.  Lavish the super thick suds and way it makes your beard feel!</p>
+<p><strong>Ingredients:</strong><span> </span>Aloe Vera Gel, Cocamidopropyl Betaine, Sodium Decyl Glucoside, Sodium Lauroyl Lactylate, Kosher Vegetable Glycerin, Citric Acid, Sodium Chloride, Organic Hemp Seed Oil, Ethylhexylglycrin &amp; Phenoxyethanol, Ricebran Oil, Distilled Water, Sodium Chloride, <span data-mce-fragment="1">Fragrance</span><br></p>
+<p left="" text-align:=""> <img alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR_VEGAN_a6717ad8-3aee-4080-ba14-e88855820566_240x240.png?v=1603193824" style="float: none;"></p>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144" alt=""></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4575797018704</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>20HRAHB4PL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hillmanreid.com/products/4493042155600</id>
+    <published>2021-06-14T23:24:41-12:00</published>
+    <updated>2021-06-14T23:24:41-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/massage-butter-pl"/>
+    <title>Massage Butter</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>HR - Private Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/BLUE-JARS_74d0eff8-2954-4046-9654-385ad86debf1.png?v=1623770875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HR - Private Label<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619"> <widgetic id="60131499ecb2a12f298b4567" resize="fill-width" width="1920" height="1080" autoscale="on" adaptive="414"></widgetic>
+<p>Massage therapy is gift that you fall in love with and your body needs. Prepare to have your overworked muscles moved towards relaxation with this silky smooth easy glide non greasy massage butter. Just a little bit goes a very long way and doesn't diminish quickly when being worked. The skin benefits of this butter are amazing and include, moisturizing, antioxidants, helps control sebum production, helps prevents acne, helps your body produce collagen, aids in wound healing and with eczema. The list of benefits are extensive and continue well beyond the list noted above.  Give it a try!<br></p>
+<p>Ingredients: Simmondsia Chinensis Seed Oil, Hydrogenated Vegetable Oil, Tocopherol,  Fragrance</p>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR_VEGAN_a6717ad8-3aee-4080-ba14-e88855820566_240x240.png?v=1603193824" width="240x240" height="240x240" style="float: none;"></div>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144" alt=""></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Massage Butter Scents</s:tag>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4493042155600</id>
+      <title>CHERRY BLOSSOM</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>20HRMB4CBPL</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4493042155600</id>
+      <title>GREEN TEA &amp; PEAR</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>20HRMB4GTPL</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4493042155600</id>
+      <title>LAVENDER</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>20HRMB4LRPL</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4493042155600</id>
+      <title>ORANGE GUAVA</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>20HRMB4OGPL</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4493042155600</id>
+      <title>PINK NOIR</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>20HRMB4PNPL</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4493042155600</id>
+      <title>UNSCENTED</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>20HRMB4UNPL</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hillmanreid.com/products/4486101696592</id>
+    <published>2021-06-14T23:24:41-12:00</published>
+    <updated>2021-06-14T23:24:41-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/beard-balm-pl"/>
+    <title>Beard Balm</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>HR - Private Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/2-oz_81ccd5ee-90fa-4b52-a0c4-6fdce88fbff1.png?v=1623768788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HR - Private Label<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            14.99 - 19.99
+            <a href="https://hillmanreid.com/products/beard-balm-pl">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619"> <widgetic id="60131499ecb2a12f298b4567" resize="fill-width" width="1920" height="1080" autoscale="on" adaptive="414"></widgetic><p>Nourishment and hold. It's simple. Beards build static, can be hard to shape and this does the trick. A little dab melted in the palm, glaze the beard. Shape and done.<br></p>
+<p><span>- Nourish Your Beard<br></span>- Repair Dry or Damaged Hair<br>- Shape Your Beard<br>- Prevent Damage from Dirt or Dust<br>- Eliminate + Prevent Static Build Up</p>
+<p><strong><span style="text-decoration: underline;">SCENT LIST</span></strong></p>
+<p><em>CROWN (Refreshing Floral and Musk)</em><br><em>CASINO (Leather, Cedarwood, Lemon and Spicy Tobacco)</em><br><em>GOLD (Allspice, Nutmeg and Vanilla)<span> </span></em><br><em>KING (Spicy-Sweet, Musk, Sandalwood)<span> </span></em><br><em>LUCKY (Patchouli, Vanilla, Clove, Sandalwood and Leather)</em><br><em>REIGN (Tobacco leaves, Citrus and Bay Leaves) </em><br><em>WEALTH (Patchouli, Vanilla and Rum)<br>UNSCENTED</em></p>
+<p left="" text-align:=""><strong>Ingredients:</strong> Jojoba Butter, Moringa Butter Avocado Butter, Hemp Seed Butter, Argan Oil, <span>Cera Alba (</span><span>B</span><span>eeswax), Fragrance</span> </p>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR_PRODUCT_LABEL_VEG_240x240.png?v=1603194172" alt="" style="float: none;"></div>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144" alt=""></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard Care Scents</s:tag>
+    <s:tag>new pl</s:tag>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486101696592</id>
+      <title>1 oz / CASINO</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18HRBB1COPL</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486101696592</id>
+      <title>1 oz / CROWN</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18HRBB1CNPL</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486101696592</id>
+      <title>1 oz / GOLD</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18HRBB1GDPL</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486101696592</id>
+      <title>1 oz / KING</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18HRBB1KGPL</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486101696592</id>
+      <title>1 oz / LUCKY</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18HRBB1LYPL</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486101696592</id>
+      <title>1 oz / REIGN</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18HRBB1RNPL</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486101696592</id>
+      <title>1 oz / WEALTH</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18HRBB1WHPL</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486101696592</id>
+      <title>1 oz / UNSCENTED</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18HRBB1UNPL</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486101696592</id>
+      <title>2 oz / CASINO</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>18HRBB2COPL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486101696592</id>
+      <title>2 oz / CROWN</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>18HRBB2CNPL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486101696592</id>
+      <title>2 oz / GOLD</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>18HRBB2GDPL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486101696592</id>
+      <title>2 oz / KING</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>18HRBB2KGPL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486101696592</id>
+      <title>2 oz / LUCKY</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>18HRBB2LYPL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486101696592</id>
+      <title>2 oz / REIGN</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>18HRBB2RNPL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486101696592</id>
+      <title>2 oz / WEALTH</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>18HRBB2WHPL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486101696592</id>
+      <title>2 oz / UNSCENTED</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>18HRBB2UNPL</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hillmanreid.com/products/4486097633360</id>
+    <published>2021-06-14T23:24:40-12:00</published>
+    <updated>2021-06-14T23:24:40-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/beard-butter-pl"/>
+    <title>Beard Butter</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>HR - Private Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/1OZ_99cb4a6e-dba8-4b91-ab66-71f6e43ff0ec.png?v=1623768878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HR - Private Label<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            14.99 - 19.99
+            <a href="https://hillmanreid.com/products/beard-butter-pl">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619"> <widgetic id="60131499ecb2a12f298b4567" resize="fill-width" width="1920" height="1080" autoscale="on" adaptive="414"></widgetic>
+<p>The ultimate nourishment. It's simple. Beards build static, can be hard to shape and this does the trick. A little dab melted in the palm, glaze the beard. Shape and done.<br></p>
+<p><span>- Nourish Your Beard<br></span>- Repair Dry or Damaged Hair<br>- Shape Your Beard<br>- Prevent Damage from Dirt or Dust<br>- Eliminate + Prevent Static Build Up</p>
+<p><strong><span style="text-decoration: underline;">SCENT LIST</span></strong></p>
+<p><em>CROWN (Refreshing Floral and Musk)</em><br><em>CASINO (Leather, Cedarwood, Lemon and Spicy Tobacco)</em><br><em>GOLD (Allspice, Nutmeg and Vanilla)<span> </span></em><br><em>KING (Spicy-Sweet, Musk, Sandalwood)<span> </span></em><br><em>LUCKY (Patchouli, Vanilla, Clove, Sandalwood and Leather)</em><br><em>REIGN (Tobacco leaves, Citrus and Bay Leaves) </em><br><em>WEALTH (Patchouli, Vanilla and Rum)<br>UNSCENTED</em></p>
+<p left="" text-align:=""><strong>Ingredients:</strong> Jojoba Butter, Moringa Butter Avocado Butter, Hemp Seed Butter, Argan Oil, <span>Cera Alba (</span><span>B</span><span>eeswax), Fragrance<br><br><img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR_PRODUCT_LABEL_VEG_240x240.png?v=1603194172" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR_PRODUCT_LABEL_VEG_240x240.png?v=1603194172"></span> </p>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144" alt=""></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard Care Scents</s:tag>
+    <s:tag>new pl</s:tag>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486097633360</id>
+      <title>1 oz / CASINO</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18HRBT1COPL</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486097633360</id>
+      <title>1 oz / CROWN</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18HRBT1CNPL</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486097633360</id>
+      <title>1 oz / GOLD</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18HRBT1GDPL</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486097633360</id>
+      <title>1 oz / KING</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18HRBT1KGPL</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486097633360</id>
+      <title>1 oz / LUCKY</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18HRBT1LYPL</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486097633360</id>
+      <title>1 oz / REIGN</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18HRBT1RNPL</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486097633360</id>
+      <title>1 oz / WEALTH</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18HRBT1WHPL</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486097633360</id>
+      <title>1 oz / UNSCENTED</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>18HRBT1UNPL</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486097633360</id>
+      <title>2 oz / CASINO</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>18HRBT2COPL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486097633360</id>
+      <title>2 oz / CROWN</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>18HRBT2CNPL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486097633360</id>
+      <title>2 oz / GOLD</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>18HRBT2GDPL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486097633360</id>
+      <title>2 oz / KING</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>18HRBT2KGPL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486097633360</id>
+      <title>2 oz / LUCKY</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>18HRBT2LYPL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486097633360</id>
+      <title>2 oz / REIGN</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>18HRBT2RNPL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486097633360</id>
+      <title>2 oz / WEALTH</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>18HRBT2WHPL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4486097633360</id>
+      <title>2 oz / UNSCENTED</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>18HRBT2UNPL</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hillmanreid.com/products/4470316138576</id>
+    <published>2021-06-14T23:24:40-12:00</published>
+    <updated>2021-06-14T23:24:40-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/foaming-body-scrub-pl"/>
+    <title>Foaming Body Scrub</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>HR - Private Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/BLUE-JARS_42429ed7-dbfe-4f0b-8683-76fda1b6e704.png?v=1623770578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HR - Private Label<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619"> <widgetic id="60131499ecb2a12f298b4567" resize="fill-width" width="1920" height="1080" autoscale="on" adaptive="414"></widgetic>
+<p>Never has there been such a wonderful addition to a shower or bath collection. Our foaming body scrub is very unique! Firm in texture, quickly turning to a soft gentle foaming experience with plant butters and a perfect balance of pumice that leaves your skin so refreshed you won't want anything else to wash with.  Lather yourself to absolute bliss, help rid yourself of environmental impurities and wash away dead skin cells. The scents are perfect balances and leave just the right hint of wonderful.<br></p>
+<p><span>A true luxury while it cleanses and moisturizes, has a very mild pH of 5.5 and is perfect for facial applications.<br></span><br><span>Ingredients: Water, Glycerin, Sodium Cocoyl Isethionate, Sorbitol, Disodium Lauryl Sulfosuccinate, Sodium Chloride, Phenoxyethanol, Tetrasodium EDTA, Fragrance</span></p>
+<p> </p>
+<div style="text-align: left;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR_VEGAN_a6717ad8-3aee-4080-ba14-e88855820566_240x240.png?v=1603193824"></div>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144" alt=""></div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body Scrub Scents</s:tag>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4470316138576</id>
+      <title>CHERRY BLOSSOM</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>20HRFS4CBPL</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4470316138576</id>
+      <title>GREEN TEA &amp; PEAR</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>20HRFS4GTPL</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4470316138576</id>
+      <title>LAVENDER</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>20HRFS4LRPL</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4470316138576</id>
+      <title>ORANGE GUAVA</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>20HRFS4OGPL</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4470316138576</id>
+      <title>PINK NOIR</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>20HRFS4PNPL</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hillmanreid.com/products/4470300016720</id>
+    <published>2021-06-14T23:24:40-12:00</published>
+    <updated>2021-06-14T23:24:40-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hillmanreid.com/products/lip-balm-pl"/>
+    <title>Lip Balm</title>
+    <s:type>Private Label</s:type>
+    <s:vendor>HR - Private Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/products/1OZ_8b3c92c5-9801-4b7b-bdbe-d0cc66ba1d84.png?v=1623770838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HR - Private Label<br>
+        <strong>Type: </strong>Private Label<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619" data-mce-src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR-CART-TOTAL-4_600x600.png?v=1612217619"> <widgetic id="60131499ecb2a12f298b4567" resize="fill-width" width="1920" height="1080" autoscale="on" adaptive="414"></widgetic>
+<p>You need us to save those luscious lips! Try our extremely robust, moisturizing and hydrating formula made with beeswax. Support your lips with vitamin and nutrient rich oils while adding a transparent, soft shine. Botanical extracts and various natural raw materials have been added to create scents.<br></p>
+<p>Ingredients: Theobroma Cacao (Cocoa) Seed Butter, Cocos nucifera (Coconut) Oil, Cera Alba (Beeswax), Elaeis guineensis (Palm) Oil, stearic acid, Butyrospermum Parkii (Shea Butter) Fruit, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Helianthus Annuus (Sunflower) Seed Oil, Persea Gratissima (Avocado) Oil, Tocopherols (Vitamin E), All-natural flavor</p>
+<div style="text-align: left;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/HR_PRODUCT_LABEL_VEG_240x240.png?v=1603194172"></div><div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0079/5289/1984/files/WHOLESALE_WELCOME_1024x1024.png?v=1611150144" alt=""></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Private Label</s:tag>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4470300016720</id>
+      <title>BLUE RASPBERRY</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>20HRSS5LBBR</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4470300016720</id>
+      <title>CHERRY</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>20HRSS5LBCY</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4470300016720</id>
+      <title>COCONUT</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>20HRSS5LBCO</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4470300016720</id>
+      <title>PEPPERMINT</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>20HRSS5LBPT</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hillmanreid.com/products/4470300016720</id>
+      <title>RASPBERRY</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>20HRSS5LBRB</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+</feed>
